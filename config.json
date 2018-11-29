@@ -1,0 +1,13 @@
+{
+  "base":"xyz@company.com",
+  "default_folder":"Inbox",
+  "sub_folder":"important",
+  "critical":"subject",
+  "account_sid":"xxxxxxx",
+  "auth_token":"xxxx",
+  "to_number":"+917044070000",
+  "from_number":"+122428000",
+  "url":"https://handler.twilio.com/twiml/xxxxx",
+  "url_deffault":"https://demo.twilio.com/welcome/voice/"
+
+}
